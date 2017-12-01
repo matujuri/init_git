@@ -2,3 +2,4 @@ practise！
 git add
 git commit
 git remove
+git diff
